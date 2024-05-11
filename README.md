@@ -49,8 +49,8 @@
 ![image](https://github.com/divyakumars/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393621/46f3bb22-9d0d-4b14-8c2d-ca88d8656dff)
 
 
-### Name: Safeeq Fazil A
-### Register Number:212222240086
+### Name:M Sanjay
+### Register Number:212222240090
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
