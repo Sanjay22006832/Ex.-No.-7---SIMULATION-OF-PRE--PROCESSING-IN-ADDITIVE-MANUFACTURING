@@ -44,9 +44,9 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![image](https://github.com/divyakumars/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393621/1c0e44df-790d-48e5-b98d-d30c40c7f7b0)
+![image](https://github.com/Sanjay22006832/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119830477/8483de4e-8a86-4502-a947-e2897636cddb)
+![image](https://github.com/Sanjay22006832/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119830477/2c7db024-c6c6-4e8c-9bd9-6a48fc271e25)
 
-![image](https://github.com/divyakumars/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393621/46f3bb22-9d0d-4b14-8c2d-ca88d8656dff)
 
 
 ### Name:M Sanjay
